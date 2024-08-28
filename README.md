@@ -1,2 +1,2 @@
 # tag_practice
-8/28 Lecture 
+SI 339 8/28 Lecture 2 Practice
